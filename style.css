@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.para {
+    font-size: 18px;
+    color: #333;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: green;
+}
+
+/* Link Styles */
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+    margin: 15px;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.links {
+    text-align: center;
+}
